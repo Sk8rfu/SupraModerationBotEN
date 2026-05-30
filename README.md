@@ -56,7 +56,7 @@ pom.xml
 ```
 
 ```
-cd SupraModerationBot
+cd SupraModerationBotEN
 mvn clean package
 ```
 After a successful build, Maven will generate the JAR file inside:
