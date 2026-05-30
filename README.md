@@ -84,7 +84,7 @@ src/
                  ├── listeners/       # Event listeners
                  ├── util/            # Utility classes
                  ├── Main.java        # Main entry point
-                 └── CommandManager.java
+                 └── CommandManager.java        # Slash commands
 ```
 
 ### 📜 Commands
